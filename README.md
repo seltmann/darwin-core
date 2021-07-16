@@ -11,17 +11,16 @@ Publish data to GBIF and Globi
 
 ### How to create a Darwin Core Archive
 1- fork repository
+
 2- use the Gryonoides_revision.csv file as a template
+
 3- zip folder
 
 Not all fields need to be filled out except: occurrenceID, BasisOfRecord
 
 Occurrence data [https://dwc.tdwg.org/terms/#occurrence](Occurrence Core)
 
-The Darwin Core Archive was validated using the https://tools.gbif.org/dwca-validator/about.do tool.
-
 ### How to publish to Darwin Core Archive via Zenodo to create a link for your publication
 
-### How to publish to Global Biotic Interactions
 
 
