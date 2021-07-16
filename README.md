@@ -10,9 +10,9 @@ Darwin core archives have been emerged as the accepted data sharing standard for
 ### How to Create a Darwin Core Archive Using this Repository
 1- Fork repository on GitHub or download its contents.
 
-2- Use the occurrences.csv file as a template. Delete the Gryonoides data and add your own.
+2- Use the occurrences.csv file as a template. Delete the Gryonoides data and add your own. Dont change the columns. It is ok to leave in columns that you do not use.
 
-3- Edit the meta.xml and eml.xml files to include information about your institution and project.
+3- Edit the eml.xml files to include information about your institution and project. Do not touch the meta.xml.
 
 3- Zip the folder to create the archive.
 
