@@ -43,5 +43,6 @@
 <field index="37" term="http://rs.tdwg.org/dwc/terms/minimumElevationInMeters"/>
 <field index="38" term="http://rs.tdwg.org/dwc/terms/maximumElevationInMeters"/>
 <field index="39" term="http://rs.tdwg.org/dwc/terms/occurrenceRemarks"/>
+<field index="40" term="http://rs.tdwg.org/dwc/terms/bibliographicCitation"/>
 
 
