@@ -10,13 +10,11 @@ Darwin core archives have been emerged as the accepted data sharing standard for
 ### How to Create a Darwin Core Archive Using this Repository
 1- Fork repository on GitHub or download its contents.
 
-2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Do not change the column number or order. It is ok to leave in extra columns that you do not use.
+2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Do not change the column number or order. It is ok to leave in extra columns that you do not use. The only columns that need to be filled out are: occurrenceID and BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation under the [Occurrence Core](https://dwc.tdwg.org/terms/#occurrence).
 
-3- Edit the eml.xml files to include information about your institution and project. 
+3- Do not touch the meta.xml. This file describes the columns in the occurrences.csv file.
 
-4- Do not touch the meta.xml. This file describes the columns in the occurrences.csv file.
+4- Edit the eml.xml files to include information about your institution and project. 
 
 5- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository using Code  -> Download ZIP.
 ![GitHub Code Button](https://user-images.githubusercontent.com/19264/86286233-c8946380-bbee-11ea-930f-24a5db34423d.png)
-
-Not all fields need to be filled out except: occurrenceID, BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation under the [Occurrence Core](https://dwc.tdwg.org/terms/#occurrence).
