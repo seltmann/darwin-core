@@ -5,12 +5,12 @@ This repository contains a Darwin Core Archive template and instructions for rev
 
 
 ### Summary
-Darwin core archives have been emerged as the accepted data sharing standard forsharing occurrence data about organisms. These occurrences could be observations or specimens in natural history collections. The standard is applied by natural history collections worldwide to share their data between various repositories, including Global Biodiversity Information Faculty (GBIF) and Integrated Digitized Bio collections (iDigBio). This repository can be repuroposed as an example template for publishing material examined as a Darwin Core Archive, accessable for data aggregators, journals and conforming to community standards. This method can be used for any occurrence dataset, either as a the material examined, species monitoring observation records, ecology publication or natural history collection data.
+Darwin core archives have emerged as the accepted data-sharing standard for occurrence data about organisms. These occurrences could be observations or specimens in natural history collections. The standard is applied by natural history collections worldwide to share their data between various repositories, including Global Biodiversity Information Faculty (GBIF) and Integrated Digitized Bio collections (iDigBio). This repository can be repurposed as an example template for publishing material examined as a Darwin Core Archive, accessible for data aggregators, journals, and conforming to community standards. This method can be used for any occurrence dataset, such as material examined, species monitoring observation records, ecological observations, or natural history collection data.
 
 ### How to Create a Darwin Core Archive Using this Repository
 1- Fork repository on GitHub or download its contents.
 
-2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Do not change the column number or order. It is ok to leave in extra columns that you do not use. The only columns that need to be filled out are: occurrenceID and BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation under the [Occurrence Core](https://dwc.tdwg.org/terms/#occurrence).
+2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Do not change the column number or order. It is ok to leave in extra columns that you do not use. The only columns that need to be filled out are _occurrenceID_ and BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation under the [Occurrence Core](https://dwc.tdwg.org/terms/#occurrence).
 
 3- Do not touch the meta.xml. This file describes the columns in the occurrences.csv file.
 
