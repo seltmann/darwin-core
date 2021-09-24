@@ -10,17 +10,13 @@ Darwin core archives have been emerged as the accepted data sharing standard for
 ### How to Create a Darwin Core Archive Using this Repository
 1- Fork repository on GitHub or download its contents.
 
-2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Dont change the columns. It is ok to leave in columns that you do not use.
+2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Do not change the column number or order. It is ok to leave in extra columns that you do not use.
 
-3- Edit the eml.xml files to include information about your institution and project. Do not touch the meta.xml.
+3- Edit the eml.xml files to include information about your institution and project. 
 
-3- Zip the folder to create the archive using the Code -> Download ZIP
+4- Do not touch the meta.xml. This file describes the columns in the occurrences.csv file.
+
+3- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository under the Code -> Download ZIP.
 
 
 Not all fields need to be filled out except: occurrenceID, BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation. Occurrence data [https://dwc.tdwg.org/terms/#occurrence](Occurrence Core)
-
-
-### How to publish to Darwin Core Archive via Zenodo to create a link for your publication
-
-
-
