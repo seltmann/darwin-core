@@ -16,7 +16,7 @@ Darwin core archives have been emerged as the accepted data sharing standard for
 
 4- Do not touch the meta.xml. This file describes the columns in the occurrences.csv file.
 
-3- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository under the Code -> Download ZIP.
+5- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository under the Code -> Download ZIP.
 
 
 Not all fields need to be filled out except: occurrenceID, BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation. Occurrence data [https://dwc.tdwg.org/terms/#occurrence](Occurrence Core)
