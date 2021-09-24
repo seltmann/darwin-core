@@ -5,16 +5,17 @@ This repository contains a Darwin Core Archive template and instructions for rev
 
 
 ### Summary
-Darwin core archives have been emerged as the accepted data sharing standard forsharing occurrence data about organisms. These occurrences could be observations or specimens in natural history collections. The standard is applied by natural history collections worldwide to share their data between various repositories, including Global Biodiversity Information Faculty (GBIF) and Integrated Digitized Bio collections(iDigBio). This repository can be repuroposed as an example template for publishing material examined as a Darwin Core Archive, accessable for data aggregators, journals and conforming to community standards. This method can be used for any occurrence dataset, either as a the material examined, species monitoring observation records, ecology publication or natural history collection data.
+Darwin core archives have been emerged as the accepted data sharing standard forsharing occurrence data about organisms. These occurrences could be observations or specimens in natural history collections. The standard is applied by natural history collections worldwide to share their data between various repositories, including Global Biodiversity Information Faculty (GBIF) and Integrated Digitized Bio collections (iDigBio). This repository can be repuroposed as an example template for publishing material examined as a Darwin Core Archive, accessable for data aggregators, journals and conforming to community standards. This method can be used for any occurrence dataset, either as a the material examined, species monitoring observation records, ecology publication or natural history collection data.
 
 ### How to Create a Darwin Core Archive Using this Repository
 1- Fork repository on GitHub or download its contents.
 
-2- Use the occurrences.csv file as a template. Delete the Gryonoides data and add your own. Dont change the columns. It is ok to leave in columns that you do not use.
+2- Use the occurrences.csv file as a template. Delete the *Gryonoides* data and add your own. Dont change the columns. It is ok to leave in columns that you do not use.
 
 3- Edit the eml.xml files to include information about your institution and project. Do not touch the meta.xml.
 
-3- Zip the folder to create the archive.
+3- Zip the folder to create the archive using the Code -> Download ZIP
+
 
 Not all fields need to be filled out except: occurrenceID, BasisOfRecord. Specific definitions of the field names can be found in the Darwin Core Documentation. Occurrence data [https://dwc.tdwg.org/terms/#occurrence](Occurrence Core)
 
