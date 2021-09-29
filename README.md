@@ -18,3 +18,7 @@ Darwin core archives have emerged as the accepted data-sharing standard for occu
 
 5- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository using Code  -> Download ZIP.
 ![GitHub Code Button](https://user-images.githubusercontent.com/19264/86286233-c8946380-bbee-11ea-930f-24a5db34423d.png)
+
+### Citations
+
+Yoder, M.J., Dole, K., Seltmann, K., and Deans, A. 2006-Present. Mx, a collaborative web based content management for biological systematists. http://mx.phenomix.org/index.php/Main_Page
