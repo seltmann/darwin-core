@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/357969604.svg)](https://zenodo.org/badge/latestdoi/357969604)
 
 ### Description
-This repository contains a Darwin Core Archive template and instructions for revisionary taxonomists to use to publish their data as a Darwin Core Archive or Darwin Core Compliant CSV file. This repository contains the Darwin Core Archive for Gryonoides specimens contained in the publication "Biology and taxonomy of Teleasinae: Review of Gryonoides Dodd 1920 (Hymenoptera: Platygastridae)." The archive was produced by the authors from data contained in mx (Yoder et al. 2006–present).
+This repository contains a Darwin Core Archive template and instructions for revisionary taxonomists to use to publish their data as a Darwin Core Archive or Darwin Core Compliant CSV file. This repository contains the Darwin Core Archive for A taxonomic revision of _Gryonoides_ Dodd, 1920 (Hymenoptera: Scelionidae), with a review of the hosts of Teleasinae." The archive was produced by the authors from data contained in mx (Yoder et al. 2006–present).
 
 
 ### Summary
