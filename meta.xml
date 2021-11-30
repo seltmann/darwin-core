@@ -8,9 +8,9 @@
 <field index="2" term="http://rs.tdwg.org/dwc/terms/basisOfRecord"/>
 <field index="3" term="http://rs.tdwg.org/dwc/terms/institutionCode"/>
 <field index="4" term="http://rs.tdwg.org/dwc/terms/catalogNumber"/>
-<field index="6" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
-<field index="7" term="http://rs.tdwg.org/dwc/terms/recordedBy"/>
-<field index="9" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
+<field index="5" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+<field index="6" term="http://rs.tdwg.org/dwc/terms/recordedBy"/>
+<field index="7" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
 <field index="8" term="http://rs.tdwg.org/dwc/terms/class"/>
 <field index="9" term="http://rs.tdwg.org/dwc/terms/order"/>
 <field index="10" term="http://rs.tdwg.org/dwc/terms/family"/>
@@ -43,6 +43,4 @@
 <field index="37" term="http://rs.tdwg.org/dwc/terms/minimumElevationInMeters"/>
 <field index="38" term="http://rs.tdwg.org/dwc/terms/maximumElevationInMeters"/>
 <field index="39" term="http://rs.tdwg.org/dwc/terms/occurrenceRemarks"/>
-<field index="40" term="http://rs.tdwg.org/dwc/terms/bibliographicCitation"/>
-
-
+<field index="40" term="http://rs.tdwg.org/dwc/terms/bibliographicCitation"/></core></archive>
