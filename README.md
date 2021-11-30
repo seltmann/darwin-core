@@ -18,7 +18,7 @@ Darwin core archives have emerged as the accepted data-sharing standard for occu
 4- Edit the eml.xml files to include information about your institution and project. 
 
 5- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository using Code  -> Download ZIP.
-![GitHub Code Button](https://user-images.githubusercontent.com/19264/86286233-c8946380-bbee-11ea-930f-24a5db34423d.png)
+![GitHub Code Button](https://user-images.githubusercontent.com/1044474/144145191-354c381d-8fc7-44b6-bbb8-4287a7dc97f9.png)
 
 6- Validate the archive using the [GBIF Data Validator tool](https://www.gbif.org/tools/data-validator).
 
