@@ -5,7 +5,6 @@
 ### Description
 This repository contains a Darwin Core Archive template and instructions for revisionary taxonomists to use to publish their data as a Darwin Core Archive or Darwin Core Compliant CSV file. This repository contains the Darwin Core Archive for A taxonomic revision of _Gryonoides_ Dodd, 1920 (Hymenoptera: Scelionidae), with a review of the hosts of Teleasinae." The archive was produced by the authors from data contained in mx (Yoder et al. 2006–present).
 
-
 ### Summary
 Darwin core archives have emerged as the accepted data-sharing standard for occurrence data about organisms. These occurrences could be observations or specimens in natural history collections. The standard is applied by natural history collections worldwide to share their data between various repositories, including Global Biodiversity Information Faculty (GBIF) and Integrated Digitized Bio collections (iDigBio). This repository can be repurposed as an example template for publishing material examined as a Darwin Core Archive, accessible for data aggregators, journals, and conforming to community standards. This method can be used for any occurrence dataset, such as material examined, species monitoring observation records, ecological observations, or natural history collection data.
 
@@ -20,6 +19,8 @@ Darwin core archives have emerged as the accepted data-sharing standard for occu
 
 5- Zip the folder to create the archive. If you are using GitHub you can use the zip function for the repository using Code  -> Download ZIP.
 ![GitHub Code Button](https://user-images.githubusercontent.com/19264/86286233-c8946380-bbee-11ea-930f-24a5db34423d.png)
+
+6- Validate the archive using the [GBIF Data Validator tool](https://www.gbif.org/tools/data-validator).
 
 ### Citations
 
