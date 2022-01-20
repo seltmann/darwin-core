@@ -28,6 +28,6 @@ Yoder, M.J., Dole, K., Seltmann, K., and Deans, A. 2006-Present. Mx, a collabora
 
 ### Indexing 
 
-[![GloBI review by Elton](https://github.com/Seltmann/taxonomy-darwin-core/actions/workflows/review.yml/badge.svg)](https://github.com/Seltmann/taxonomy-darwin-core/actions) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:Seltmann/taxonomy-darwin-core)](https://globalbioticinteractions.org/?accordingTo=globi:Seltmann/taxonomy-darwin-core) 
+[![GloBI review by Elton](https://github.com/seltmann/taxonomy-darwin-core/actions/workflows/review.yml/badge.svg)](https://github.com/seltmann/taxonomy-darwin-core/actions) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/taxonomy-darwin-core)](https://globalbioticinteractions.org/?accordingTo=globi:seltmann/taxonomy-darwin-core) 
 
 This publications is configured to be indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
