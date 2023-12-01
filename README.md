@@ -27,7 +27,6 @@ Darwin core archives have emerged as the accepted data-sharing standard for occu
 Yoder, M.J., Dole, K., Seltmann, K., and Deans, A. 2006-Present. Mx, a collaborative web based content management for biological systematists. http://mx.phenomix.org/index.php/Main_Page
 
 ### Indexing 
-
-[![GloBI review by Elton](https://github.com/Seltmann/taxonomy-darwin-core/actions/workflows/review.yml/badge.svg)](https://github.com/Seltmann/taxonomy-darwin-core/actions) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:Seltmann/taxonomy-darwin-core)](https://globalbioticinteractions.org/?accordingTo=globi:Seltmann/taxonomy-darwin-core) 
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/taxonomy-darwin-core)](https://globalbioticinteractions.org/?accordingTo=globi:seltmann/taxonomy-darwin-core) 
 
 This publications is configured to be indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
